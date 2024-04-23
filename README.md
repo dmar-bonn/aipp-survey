@@ -46,3 +46,8 @@ ground, aerial, and aquatic domains.
 | One-Shot View Planning for Fast and Complete Unknown Object Reconstruction                                              | Pan et al.           | arXiv, 2023                                           | [https://github.com/psc0628/MA-SCVP](https://github.com/psc0628/MA-SCVP){:target="_blank" rel="noopener"}                                                                      |
 | How Many Views Are Needed to Reconstruct an Unknown Object Using NeRF?                                                  | Pan et al.           | arXiv, 2024                                           | [https://github.com/psc0628/NeRF-PRV](https://github.com/psc0628/NeRF-PRV){:target="_blank" rel="noopener"}                                                                      |
 | An information gain formulation for active volumetric 3D reconstruction                                                 | Isler et al.         | ICRA, 2016                                            | [https://github.com/uzh-rpg/rpg_ig_active_reconstruction](https://github.com/uzh-rpg/rpg_ig_active_reconstruction){:target="_blank" rel="noopener"}                                                                      |
+
+## Funding
+
+This work was partially funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under 
+Germany’s Excellence Strategy - EXC 2070 – 390732324.
