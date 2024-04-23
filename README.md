@@ -1,7 +1,7 @@
 This is the website for the survey paper "Robotic Learning for Informative Path Planning" authored by 
 Marija Popović, Joshua Ott, Julius Rückin, and Mykel Kochenderfer. 
 The paper is currently under review at the Robotics and Autonomous Systems journal. 
-The arXiv pre-print can be found [here](https://arxiv.org/pdf/2404.06940.pdf).
+The arXiv pre-print can be found [here](https://arxiv.org/pdf/2404.06940.pdf){:target="_blank" rel="noopener"}.
 This website provides a comprehensive catalogue of papers reviewed in our survey with publicly available
 repositories to facilitate future studies in the field.
 
