@@ -1,10 +1,33 @@
-The field of robotics has witnessed remarkable advancements in recent years, fueled by the growing 
-need for automation and the increasing complexity of tasks required in various domains. One of the 
-key challenges in robotics is adaptive informative path planning, which involves planning a trajectory 
-for an autonomous robot to follow that maximizes the information acquired about an unknown environment 
-while simultaneously respecting resource constraints. This problem is of critical importance in 
-applications such as environmental monitoring, exploration, search and rescue, and inspection across 
-ground, aerial, and aquatic domains.
+This is the website for the survey paper "Robotic Learning for Informative Path Planning" authored by 
+Marija Popović, Joshua Ott, Julius Rückin, and Mykel Kochenderfer. 
+The paper is currently under review at the Robotics and Autonomous Systems journal. 
+The arXiv pre-print can be found [here](https://arxiv.org/pdf/2404.06940.pdf).
+This website provides a comprehensive catalogue of papers reviewed in our survey with publicly available
+repositories to facilitate future studies in the field.
+
+## Abstract
+
+Adaptive informative path planning (AIPP) is important to many robotics applications, enabling mobile robots to 
+efficiently collect useful data about initially unknown environments. In addition, learning-based methods are 
+increasingly used in robotics to enhance adaptability, versatility, and robustness across diverse and complex 
+tasks. Our survey explores research on applying robotic learning to AIPP, bridging the gap between these two 
+research fields. We begin by providing a unified mathematical framework for general AIPP problems. Next, we 
+establish two complementary taxonomies of current work from the perspectives of (i) learning algorithms and 
+(ii) robotic applications. We explore synergies, recent trends, and highlight the benefits of learning-based 
+methods in AIPP frameworks. Finally, we discuss key challenges and promising future directions to enable more 
+generally applicable and robust robotic data-gathering systems through learning. We provide a comprehensive 
+catalogue of papers reviewed in our survey, including publicly available repositories, to facilitate future 
+studies in the field.
+
+If you found this work useful for your own research, feel free to cite it.
+```commandline
+@article{popovic2024robotic,
+  title={{Robotic Learning for Adaptive Informative Path Planning}},
+  author={Popović, Marija and Ott, Joshua and R{\"u}ckin, Julius and Kochendorfer, Mykel J},
+  journal={arXiv preprint arXiv:2404.06940},
+  year={2024}
+}
+```
 
 ## Open-Source Code
 
