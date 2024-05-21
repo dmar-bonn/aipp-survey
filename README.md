@@ -11,7 +11,7 @@ Adaptive informative path planning (AIPP) is important to many robotics applicat
 efficiently collect useful data about initially unknown environments. In addition, learning-based methods are 
 increasingly used in robotics to enhance adaptability, versatility, and robustness across diverse and complex 
 tasks. Our survey explores research on applying robotic learning to AIPP, bridging the gap between these two 
-research fields. We begin by providing a unified mathematical framework for general AIPP problems. Next, we 
+research fields. We begin by providing a mathematical problem definition for general AIPP problems. Next, we 
 establish two complementary taxonomies of current work from the perspectives of (i) learning algorithms and 
 (ii) robotic applications. We explore synergies, recent trends, and highlight the benefits of learning-based 
 methods in AIPP frameworks. Finally, we discuss key challenges and promising future directions to enable more 
