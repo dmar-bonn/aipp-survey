@@ -1,8 +1,8 @@
-This is the website for the survey paper "Robotic Learning for Informative Path Planning" authored by 
+This is the website for the survey paper "Robotic Learning for Informative Path Planning," authored by 
 Marija Popović, Joshua Ott, Julius Rückin, and Mykel Kochenderfer. 
 The paper is currently under review at the Robotics and Autonomous Systems journal. 
 The arXiv pre-print can be found [here](https://arxiv.org/pdf/2404.06940.pdf){:target="_blank" rel="noopener"}.
-This website provides a comprehensive catalogue of papers reviewed in our survey with publicly available
+This website provides a comprehensive catalog of papers reviewed in our survey with publicly available
 repositories to facilitate future studies in the field.
 
 ## Abstract
@@ -16,7 +16,7 @@ establish two complementary taxonomies of current work from the perspectives of 
 (ii) robotic applications. We explore synergies, recent trends, and highlight the benefits of learning-based 
 methods in AIPP frameworks. Finally, we discuss key challenges and promising future directions to enable more 
 generally applicable and robust robotic data-gathering systems through learning. We provide a comprehensive 
-catalogue of papers reviewed in our survey, including publicly available repositories, to facilitate future 
+catalog of papers reviewed in our survey, including publicly available repositories, to facilitate future 
 studies in the field.
 
 If you found this work useful for your own research, feel free to cite it.
@@ -43,7 +43,7 @@ scene understanding, and active simultaneous localization and mapping (SLAM).
 ![Taxonomy of AIPP Applications](docs/histograms.png "Taxonomy of AIPP Applications")
 
 Our taxonomy considers four broad application areas: (i) environmental monitoring; (ii) exploration and search; 
-(iii) semantic scene understanding; and (iv) active SLAM. We also include the utilised learning method: supervised 
+(iii) semantic scene understanding; and (iv) active SLAM. We also include the utilized learning method: supervised 
 learning; reinforcement learning; imitation learning; and/or active learning. We provide visual summary statistics 
 for our survey according to the application area, learning  method, and planning space considered by each paper.
 
