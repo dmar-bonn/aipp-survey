@@ -29,6 +29,24 @@ If you found this work useful for your own research, feel free to cite it.
 }
 ```
 
+# Survey Overview
+
+![Survey Overview](docs/overview.png "Survey Overview")
+
+Our review includes different aspects of learning (Sec. 4): supervised learning, reinforcement learning, imitation 
+learning, and active learning. We focus on how these techniques can be used for AIPP in robotics. Furthermore, we 
+discuss relevant application domains (Sec. 5), such as environmental monitoring, exploration and search, semantic 
+scene understanding, and active simultaneous localization and mapping (SLAM).
+
+# Taxonomy of AIPP Applications
+
+![Taxonomy of AIPP Applications](docs/histograms.png "Taxonomy of AIPP Applications")
+
+Our taxonomy considers four broad application areas: (i) environmental monitoring; (ii) exploration and search; 
+(iii) semantic scene understanding; and (iv) active SLAM. We also include the utilised learning method: supervised 
+learning; reinforcement learning; imitation learning; and/or active learning. We provide visual summary statistics 
+for our survey according to the application area, learning  method, and planning space considered by each paper.
+
 ## Open-Source Code
 
 | **Title**                                                                                                               | **Authors**          | **Venue, Year**                                       | **Code, Latest Commit**                                                                                                          |
